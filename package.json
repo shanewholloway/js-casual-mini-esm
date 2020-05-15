@@ -1,6 +1,6 @@
 {
   "name": "casual-mini-esm",
-  "version": "1.6.2-0",
+  "version": "1.6.2",
   "description": "Casual Fake data generator, bundled as ES modules",
   "license": "MIT",
   "author": "Shane Holloway <shane.holloway@ieee.org>",
